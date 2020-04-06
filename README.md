@@ -1,6 +1,6 @@
 # 网易云音乐歌单监控 IOS捷径
 
-下载地址：https://www.icloud.com/shortcuts/450f4e606ee64766b316e083cb0d065b
+下载地址：https://www.icloud.com/shortcuts/6fa45188244f475ca8b4a570037f1421
 
 发现网易云歌单总是莫名其妙少歌？厌倦了网易云偷偷对你的歌单做手脚？
 
@@ -23,4 +23,4 @@
 - 比对速度较慢
 - 与『代理法破解网易云音乐』冲突，会提示证书错误，请关闭代理后使用
 
-下载地址：https://www.icloud.com/shortcuts/450f4e606ee64766b316e083cb0d065b
+下载地址：https://www.icloud.com/shortcuts/6fa45188244f475ca8b4a570037f1421
